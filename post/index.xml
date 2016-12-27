@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dane Lipscombe</title>
+    <link>http://lipscombe.com.au/post/index.xml</link>
+    <description>Recent content in Posts on Dane Lipscombe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2016 10:47:45 +1100</lastBuildDate>
+    <atom:link href="http://lipscombe.com.au/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://lipscombe.com.au/2016/12/27/welcome/</link>
+      <pubDate>Tue, 27 Dec 2016 10:47:45 +1100</pubDate>
+      
+      <guid>http://lipscombe.com.au/2016/12/27/welcome/</guid>
+      <description>&lt;p&gt;Welcome! WIP&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
